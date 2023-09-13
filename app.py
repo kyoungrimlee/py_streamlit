@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 
 st.title('Hello Streamlit')
-view = [100, 150, 30]
+view = [100, 150, 30,70,120]
 
 st.write('# Youtube View')
 st.write('## raw')
